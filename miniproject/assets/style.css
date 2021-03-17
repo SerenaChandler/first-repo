@@ -1,0 +1,23 @@
+h1, h2, h6, header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: rgb(71, 47, 47);
+}
+
+header {
+    color: chocolate;
+    background-color: rgb(53, 41, 40);
+    text-align: center;
+    font-size: large;
+}
+
+#headercolor {
+    color: chocolate;
+}
+
+footer {
+    text-align: center;
+}
+
